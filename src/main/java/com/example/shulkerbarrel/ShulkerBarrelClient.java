@@ -1,7 +1,7 @@
 package com.example.shulkerbarrel;
 
 import net.fabricmc.api.ClientModInitializer;
-import net.fabricmc.fabric.api.item.v1.ItemTooltipCallback;
+import net.fabricmc.fabric.api.client.item.v1.ItemTooltipCallback;
 import net.minecraft.core.component.DataComponents;
 import net.minecraft.network.chat.Component;
 import net.minecraft.world.item.ItemStack;
